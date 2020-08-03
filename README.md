@@ -1,2 +1,3 @@
 # Wine-Quality
-ML Algo
+
+Wine-Quality Prediction using datset taken from kaggle. 
